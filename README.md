@@ -1,5 +1,5 @@
 # Android-Study-Jams
-## News-App
+## News-App 
 
 Problem Statement : Alot of people want to read news and  views on a particular topic.
 
